@@ -1,36 +1,27 @@
 # Shaun Na
 
 ## Education
-- **Bachelor's in Industrial Engineering**
-- University of Minnesota - Twin Cities, September 2022 - May 2025
+- **Bachelor's in Industrial and Systems Engineering** @ University of Minnesota - Twin Cities (September 2022 - May 2025)
 - GPA: 3.61
 
 ## Certifications
 - Six Sigma Yellow Belt
 
 ## Professional Experience
-### Research Assistant
-- IPUMS, Minneapolis, MN, USA
-- January 2023 - August 2023
+### Research Assistant @ IPUMS (January 2023 - August 2023)
   - Analyzed data types and managed citations
   - Contributed to a 50% reduction in data backlog
 
-### General Maintenance Assistant
-- Lake Superior College, Duluth, MN, USA
-- January 2021 - July 2021
+### General Maintenance Assistant @ Lake Superior College (January 2021 - July 2021)
   - Managed supplies and ensured cleanliness
   - Assisted in loading and snow removal
   - 
   
-### Logistics Co-worker
-- Ikea, Yongin-si, Gyeonggi-do, South Korea
-- December 2019 - March 2020
+### Logistics Co-worker @Ikea (December 2019 - March 2020)
   - Managed inventory and optimized product availability
   - Provided exceptional customer service
 
-### Sergeant
-- Republic of Korea Army VI Corps, Pocheon-si, Gyeonggi-do, South Korea
-- February 2018 - October 2019
+### Sergeant @ Republic of Korea Army VI Corps (February 2018 - October 2019)
   - Led high-stakes operations and mentored team
 
 ## Projects & Outside Experience
