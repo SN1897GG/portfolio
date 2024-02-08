@@ -2,8 +2,8 @@
 
 ## Education
 - **Bachelor's in Industrial Engineering**
-  - University of Minnesota - Twin Cities, September 2022 - May 2025
-  - GPA: 3.61
+- University of Minnesota - Twin Cities, September 2022 - May 2025
+- GPA: 3.61
 
 ## Certifications
 - Six Sigma Yellow Belt
@@ -20,7 +20,8 @@
 - January 2021 - July 2021
   - Managed supplies and ensured cleanliness
   - Assisted in loading and snow removal
-
+  - 
+  
 ### Logistics Co-worker
 - Ikea, Yongin-si, Gyeonggi-do, South Korea
 - December 2019 - March 2020
