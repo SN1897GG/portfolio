@@ -20,7 +20,7 @@
   - Collaborated closely with the sales team to optimize product availability
   - Provided exceptional customer service by assisting with product location, answering queries regarding Ikea products
 
-### Sergeant @ Republic of Korea Army VI Corps (_February 2018 - October 2019_)
+### Sergeant @ Republic of Korea Army (_February 2018 - October 2019_)
   - Led a team of 10 personnel in high-stakes operations (CQB, counter-terrorism training)
   - Navigated complex and rapidly evolving scenarios, making critical decisions under pressure as a team
   - Actively monitored team dynamics and provided mentorship, resulting in enhanced supportive work environment
@@ -47,14 +47,11 @@
   - Conducted an in-depth analysis (decision tree) of Chick-fil-A's existing supply chain system to identify areas for improvement
   - Collaborated with team members to develop innovative solutions aimed at streamlining operations
 
+## Technical Skills
+- Python, MATLAB, R, Power BI, SQL, Tableau, Excel, Lucid Chart
 
 ## Skills
-- Business Analytics, Python, MATLAB
-- Operations Research, Supply Chain Management
-- Inventory Management, R, Power BI, SQL
-- Tableau, Human Factor Engineering, Excel
-- Financial Analysis, Quality Engineering
-- Statistical Analysis
+- Business Analytics, Operations Research, Supply Chain Management, Inventory Management, Human Factor Engineering, Financial Analysis, Quality Engineering, Statistical Analysis
 
 ## Languages
 - Japanese, Korean, English
