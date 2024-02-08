@@ -27,16 +27,26 @@
 
 # Projects & Outside Experience
 ### The Need for Electric Vehicles in Preventing Environmental Devastation (_2022_)
-  - Analyzed cost-benefit and environmental impact
+  - Analyzed the cost-benefit of electric cars compared to gasoline cars using public data, and identified break even point
+  - Created visually compelling Excel graphs to illustrate and analyze the environmental and economic effects of electric cars, providing clear insights into their overall impact 
+  - Nominated as a finalist representing the Central Region in the competition
 
 ### Light Rail Extension Project (_2022_)
-  - Utilized data analysis to determine optimal location
+  - Utilized data analysis and Dijkstra's algorithm to determine the best location for the light rail extension in Minneapolis 
+  - Employed a strategic approach to minimize the total cost of the light rail extension by focusing on reducing the total distance of the route 
+  - Developed a projected light rail system map that took into account factors like population density and ridership data
 
 ### South Korea's Approach to Fair Homeownership through the Housing Subscription (_2023_)
-  - Conducted research and proposed solutions
+  - Conducted research on South Korea's housing solutions and identified areas for improvement in their housing policies and practices
+  - Analyzed the specific allocation methods used in distributing housing, ensuring a fair and equitable distribution of housing
+  - Identified issues within the current system and proposed potential solutions to enhance the allocation process
+
 
 ### Optimizing Chick-fil-A's Supply Chain System (_2023_)
-  - Conducted analysis and developed solutions
+  - Collaborated with a Chick-fil-A manager to gain firsthand insights into the operational challenges encountered by the restaurant.
+  - Conducted an in-depth analysis (decision tree) of Chick-fil-A's existing supply chain system to identify areas for improvement
+  - Collaborated with team members to develop innovative solutions aimed at streamlining operations
+
 
 ## Skills
 - Business Analytics, Python, MATLAB
