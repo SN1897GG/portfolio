@@ -1,50 +1,43 @@
-# Shaun Na
-
-## Education
-- **Bachelor's in Industrial and Systems Engineering**
-  @ University of Minnesota - Twin Cities (September 2022 - May 2025)
-- GPA: 3.61
+# Education
+- **B.S. Industrial and Systems Engineering**
+- University of Minnesota - Twin Cities (_September 2022 - May 2025_) GPA: 3.61
 
 ## Certifications
 - Six Sigma Yellow Belt
 
-## Professional Experience
-### Research Assistant @ IPUMS (January 2023 - August 2023)
+# Professional Experience
+### Research Assistant @ IPUMS (_January 2023 - August 2023_)
   - Analyzed data types and managed citations
+  - Actively communicated with the team by regularly participating in team meetings
   - Contributed to a 50% reduction in data backlog
 
-### General Maintenance Assistant @ Lake Superior College (January 2021 - July 2021)
+### General Maintenance Assistant @ Lake Superior College (_January 2021 - July 2021_)
   - Managed supplies and ensured cleanliness
-  - Assisted in loading and snow removal
-  - 
+  - Assisted in the loading and unloading of supplies on the loading deck and communicated effectively with the team to ensure work safety.
+  - Removed snow to keep the roads safe.
   
-### Logistics Co-worker @Ikea (December 2019 - March 2020)
-  - Managed inventory and optimized product availability
-  - Provided exceptional customer service
+### Logistics Co-worker @Ikea (_December 2019 - March 2020_)
+  - Efficiently managed and organized the inventory at Ikea, including conducting regular stock checks and ensuring a seamless flow of goods
+  - Collaborated closely with the sales team to optimize product availability
+  - Provided exceptional customer service by assisting with product location, answering queries regarding Ikea products
 
-### Sergeant @ Republic of Korea Army VI Corps (February 2018 - October 2019)
-  - Led high-stakes operations and mentored team
+### Sergeant @ Republic of Korea Army VI Corps (_February 2018 - October 2019_)
+  - Led a team of 10 personnel in high-stakes operations (CQB, counter-terrorism training)
+  - Navigated complex and rapidly evolving scenarios, making critical decisions under pressure as a team
+  - Actively monitored team dynamics and provided mentorship, resulting in enhanced supportive work environment
 
-## Projects & Outside Experience
-### Optimizing Chick-fil-A's Supply Chain System
-- Minneapolis, MN, USA
-- September 2023 - December 2023
-  - Conducted analysis and developed solutions
-
-### The Need for Electric Vehicles in Preventing Environmental Devastation
-- St Paul, MN, USA
-- January 2022 - May 2022
+# Projects & Outside Experience
+### The Need for Electric Vehicles in Preventing Environmental Devastation (_2022_)
   - Analyzed cost-benefit and environmental impact
 
-### Light Rail Extension Project
-- Minneapolis, MN, USA
-- September 2022 - December 2022
+### Light Rail Extension Project (_2022_)
   - Utilized data analysis to determine optimal location
 
-### South Korea's Approach to Fair Homeownership through the Housing Subscription
-- Minneapolis, MN, USA
-- January 2023 - May 2023
+### South Korea's Approach to Fair Homeownership through the Housing Subscription (_2023_)
   - Conducted research and proposed solutions
+
+### Optimizing Chick-fil-A's Supply Chain System (_2023_)
+  - Conducted analysis and developed solutions
 
 ## Skills
 - Business Analytics, Python, MATLAB
