@@ -1,6 +1,5 @@
 # Education
-- **B.S. Industrial and Systems Engineering**
-- University of Minnesota - Twin Cities (_September 2022 - May 2025_) GPA: 3.61
+- **B.S. Industrial and Systems Engineering** @ University of Minnesota - Twin Cities (_September 2022 - May 2025_) GPA: 3.61
 
 ## Certifications
 - Six Sigma Yellow Belt
