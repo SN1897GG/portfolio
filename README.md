@@ -1,7 +1,8 @@
 # Shaun Na
 
 ## Education
-- **Bachelor's in Industrial and Systems Engineering** @ University of Minnesota - Twin Cities (September 2022 - May 2025)
+- **Bachelor's in Industrial and Systems Engineering**
+  @ University of Minnesota - Twin Cities (September 2022 - May 2025)
 - GPA: 3.61
 
 ## Certifications
